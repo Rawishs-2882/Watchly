@@ -32,7 +32,7 @@ A parent only Java application shows dynamic child profiles backed by Firebase, 
 ## Tech Stack
 
 <div align="center">
-<img src="https://tech-orbit.wontory.dev/api?title=Watchly&tech=cplusplus,java,firebase,git&size=420&duration=20" alt="tech stack orbit" width="420" />
+<img src="https://raw.githubusercontent.com/Rawishs-2882/Watchly/main/assets/tech-orbit.svg" alt="tech stack orbit" width="380" />
 </div>
 
 ESP32 firmware in C and C++, Java for the Android companion app, Firebase Realtime Database for live sync, GPS and BLE modules, OLED display via U8g2, and a PyTorch based Vision Transformer for the surveillance layer.
